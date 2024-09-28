@@ -1,4 +1,4 @@
-const HomeData = [
+export const imageData = [
   {
     "id": 0,
     "image": "https://i.pinimg.com/564x/95/7a/5e/957a5e9d9fa6642638bef070bb3a3cd9.jpg",
@@ -184,15 +184,19 @@ const HomeData = [
 const HtmlBody = document.querySelector("body")
 const Ul = document.createElement("ul")
 
-const mainChildre = HomeData.map((item, index) => {
-  const list = document.createElement("li")
-  list.setAttribute("id", item.id * index)
-  const image = document.createElement("img")
-  image.setAttribute("src", item.image)
-  list.append(image)
-  Ul.append(list)
+// Function to create the image list
+function createImageList(data) {
+  data.forEach(item => {
+    const listItem = document.createElement("li");
+    listItem.setAttribute("id", item.id); // Set the id directly from item
+    const image = document.createElement("img");
+    image.setAttribute("src", item.image);
+    image.setAttribute("alt", `Image ${item.id}`); // Added alt text for accessibility
+    listItem.appendChild(image);
+    Ul.appendChild(listItem);
+  });
+}
 
-  return list
-})
-
+// Create and append the image list
+createImageList(imageArray);
 HtmlBody.append(Ul)

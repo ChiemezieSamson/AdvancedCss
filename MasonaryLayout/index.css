@@ -4,47 +4,54 @@
   box-sizing: border-box;
 }
 
+body {
+  padding-block: 40px;
+}
 
-ul {
+
+:root {
   --gap: 1em;
   --columns: 4;
+}
+
+ul {
   max-width: 60rem;
   margin: 0 auto;
-  gap: var(--gap);
+  padding: 0; /* Added to reset padding */
   display: column;
   columns: var(--columns);
+  gap: var(--gap);
   list-style: none;
 }
 
 li {
   width: 100%;
   margin-bottom: var(--gap);
-  break-inside: avoid;
- }
-
-@supports (grid-template-rows: masonry){
-  ul {
-    display: grid;
-    grid-template-columns: repeat(var(--columns), 1fr);
-    grid-template-rows: masonry;
-    grid-auto-flow: dense;
-  }
-
-  li {
-    margin-bottom: 0em;
-   }
-
-  img {
-    width: auto;
-    height: auto;
-  }
+  break-inside: avoid; /* Prevents breaking inside the list item */
 }
 
 img {
   max-width: 100%;
-  max-height: 100%;
-  max-height: min-content;
-  object-fit: cover;
+  max-height: min-content; /* Keeps images within their container's content */
+  object-fit: cover; /* Ensures images cover their area */
+  border-radius: 10px;
+}
+
+@supports (grid-template-rows: masonry) {
+  ul {
+    display: grid;
+    grid-template-columns: repeat(var(--columns), 1fr);
+    grid-template-rows: masonry; /* Uses the masonry layout */
+    grid-auto-flow: dense; /* Fills grid with minimal gaps */
+  }
+
+  li {
+    margin-bottom: 0; /* Removes bottom margin for grid layout */
+  }
+
+  img {
+    height: auto; /* Maintains aspect ratio */
+  }
 }
 
 /* columns */
