@@ -2,7 +2,12 @@ export const HomeData = [
   {
     "id": 0,
     "title": "G7 Summit Focuses on Global Economic Recovery",
-    "image": "https://i.pinimg.com/564x/8e/21/91/8e21916c7d82e05a054475989c195e3e.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/8e/21/91/8e21916c7d82e05a054475989c195e3e.jpg",
+      "https://i.pinimg.com/564x/20/df/00/20df00ebf94d5e08a06f01290caa0cea.jpg",
+      "https://i.pinimg.com/564x/fd/35/17/fd351760fc49abedbe9f2b71e583ef0a.jpg",
+      "https://i.pinimg.com/564x/14/bd/79/14bd79c236584a8d67013bb89008a737.jpg",
+    ],
     "textcontent": "Leaders of the G7 nations have gathered in Tokyo to discuss strategies for accelerating global economic recovery post-pandemic. The summit highlights the need for collaborative economic policies to combat inflation, unemployment, and rising debt levels globally. Emphasis was placed on sustainable growth, digital transformation, and boosting resilience to future crises. The discussions also delved into how advanced economies can support developing nations, ensuring equitable recovery in a post-COVID world.",
     "source_name": "Economy",
     "publication_date": "2024-06-01",
@@ -26,7 +31,12 @@ export const HomeData = [
   {
     "id": 1,
     "title": "UN Climate Report Warns of Accelerating Global Warming",
-    "image": "https://i.pinimg.com/564x/17/42/67/1742677e0a7934aa139c0aa036196ba5.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/17/42/67/1742677e0a7934aa139c0aa036196ba5.jpg",
+      "https://i.pinimg.com/564x/d0/a1/bc/d0a1bc57b1b62fa7cb242c34007f507c.jpg",
+      "https://i.pinimg.com/564x/e6/7a/83/e67a83822560722e43cb12222ab80e4b.jpg",
+      "https://i.pinimg.com/564x/64/1e/f9/641ef9de6dee0ea3489a9870b19521aa.jpg",
+    ],
     "textcontent": "The latest UN climate report highlights the urgent need for global action to combat the accelerating effects of global warming. The report outlines key areas where climate change is having immediate impacts, including rising sea levels, extreme weather events, and biodiversity loss. It warns that without drastic measures, some regions may become uninhabitable in the coming decades. The UN is calling for swift transitions to renewable energy, reforestation efforts, and international cooperation to mitigate the damage.",
     "source_name": "Environment",
     "publication_date": "2024-06-05",
@@ -50,7 +60,12 @@ export const HomeData = [
   {
     "id": 2,
     "title": "Historic Peace Agreement Signed in Middle East",
-    "image": "https://i.pinimg.com/564x/b7/d6/27/b7d62769b9ae7c875975bd0780d78687.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/b7/d6/27/b7d62769b9ae7c875975bd0780d78687.jpg",
+      "https://i.pinimg.com/564x/60/d1/5b/60d15bd4b2d9f017bb4eb8e5ba7ada14.jpg",
+      "https://i.pinimg.com/564x/03/9c/37/039c37fcb87abf9cb4b86021742898b4.jpg",
+      "https://i.pinimg.com/564x/65/47/26/654726ba43ad385ef49943fc6d156416.jpg",
+    ],
     "textcontent": "After decades of conflict, a historic peace agreement has been signed in the Middle East, marking a new era of hope and stability for the region. The agreement, brokered by international diplomats, aims to end hostilities between rival factions, with promises of economic cooperation, demilitarization, and rebuilding efforts. While the deal is seen as a monumental step forward, experts caution that its success will depend on continued dialogue and trust-building measures between the involved parties.",
     "source_name": "Politics",
     "publication_date": "2024-06-08",
@@ -74,7 +89,12 @@ export const HomeData = [
   {
     "id": 3,
     "title": "Breakthrough in Cancer Research Announced",
-    "image": "https://i.pinimg.com/736x/85/4e/a0/854ea0ea818b464eedbd00b0ace1e3ec.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/85/4e/a0/854ea0ea818b464eedbd00b0ace1e3ec.jpg",
+      "https://i.pinimg.com/564x/81/6d/11/816d117b9a342cdc593e903eef4cdf11.jpg",
+      "https://i.pinimg.com/564x/b2/4f/30/b24f30ce1dcdeb23c8309b397edfd2bf.jpg",
+      "https://i.pinimg.com/236x/b7/9d/a0/b79da06f7b7e29199e39f5be2e7e3aef.jpg",
+    ],
     "textcontent": "Scientists have announced a major breakthrough in cancer research, which could pave the way for more effective treatments and possibly a cure in the near future. The discovery focuses on a new therapy that targets cancer cells without damaging healthy tissues, minimizing side effects. Early trials have shown promising results in patients with aggressive forms of cancer, and the scientific community is optimistic about its potential. This marks a significant milestone in the ongoing fight against cancer.",
     "source_name": "Health",
     "publication_date": "2024-06-10",
@@ -98,7 +118,12 @@ export const HomeData = [
   {
     "id": 4,
     "title": "Global Tech Conference Highlights AI Innovations",
-    "image": "https://i.pinimg.com/736x/bc/e1/71/bce17118114a9d98a3134a4bb3a68deb.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/bc/e1/71/bce17118114a9d98a3134a4bb3a68deb.jpg",
+      "https://i.pinimg.com/564x/ad/ed/46/aded46f107a433803bdedab794e49e42.jpg",
+      "https://i.pinimg.com/564x/8d/2a/9f/8d2a9f2812e756ce672def8fa5f66a06.jpg",
+      "https://i.pinimg.com/564x/73/e1/6d/73e16d2254ff6d88cadd1de282f3b8aa.jpg",
+    ],
     "textcontent": "The annual Global Tech Conference showcased the latest innovations in artificial intelligence, highlighting how these advancements could revolutionize industries from healthcare to finance. This year’s event focused on AI applications in everyday life, including new tools for automation, data analysis, and decision-making processes. Experts also discussed ethical concerns surrounding AI, particularly regarding privacy and job displacement. The conference concluded with a look at the future of AI, emphasizing the need for responsible development and regulation.",
     "source_name": "Technology",
     "publication_date": "2024-06-12",
@@ -122,7 +147,12 @@ export const HomeData = [
   {
     "id": 5,
     "title": "Wildfires Ravage Parts of Australia",
-    "image": "https://i.pinimg.com/564x/e2/d4/fc/e2d4fc78d15a0be0e495b0687cd9ad99.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/e2/d4/fc/e2d4fc78d15a0be0e495b0687cd9ad99.jpg",
+      "https://i.pinimg.com/564x/36/12/56/3612564085b693168037358c4ea35f03.jpg",
+      "https://i.pinimg.com/enabled_lo/564x/8a/3e/f8/8a3ef88b0a76cb20645a063c28dae268.jpg",
+      "https://i.pinimg.com/564x/de/64/6e/de646e8578f8d5fdadf14570748a6eda.jpg",
+    ],
     "textcontent": "Severe wildfires have broken out in parts of Australia, causing widespread damage and prompting mass evacuations. The fires, fueled by record-high temperatures and dry conditions, have devastated homes, wildlife, and ecosystems. Emergency services are working tirelessly to contain the blazes, but with high winds and extreme heat, efforts have been challenging. Experts warn that these wildfires could be a sign of more frequent and intense fire seasons, exacerbated by climate change. Local and international aid has been mobilized to assist affected communities.",
     "source_name": "Disaster",
     "publication_date": "2024-06-15",
@@ -146,7 +176,12 @@ export const HomeData = [
   {
     "id": 6,
     "title": "Global Stock Markets Experience Volatility",
-    "image": "https://i.pinimg.com/564x/38/d4/d7/38d4d70886c8a2dd73f3e5f1497c8f73.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/38/d4/d7/38d4d70886c8a2dd73f3e5f1497c8f73.jpg",
+      "https://i.pinimg.com/564x/0f/25/95/0f2595ab4d50216e3393cbf45df94ee7.jpg",
+      "https://i.pinimg.com/564x/9b/4b/81/9b4b819cdbbb8adb50cc59ee21af641f.jpg",
+      "https://i.pinimg.com/564x/b9/49/fd/b949fde3771092cf50da6907c3cd4ac2.jpg",
+    ],
     "textcontent": "Stock markets around the world have experienced significant volatility amid economic uncertainties. Several factors, including geopolitical tensions, fluctuating energy prices, and fears of a global recession, have contributed to sharp rises and falls in major indexes. Investors are particularly concerned about inflationary pressures, as central banks have been adjusting interest rates to curb rising prices. Financial analysts are urging caution and advising diversification as a way to mitigate risks during this turbulent period.",
     "source_name": "Economy",
     "publication_date": "2024-06-18",
@@ -170,7 +205,12 @@ export const HomeData = [
   {
     "id": 7,
     "title": "New Species Discovered in the Amazon Rainforest",
-    "image": "https://i.pinimg.com/736x/21/fd/df/21fddf788598e7b4fe4a563e7d793db1.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/45/9d/73/459d730a18c354913846718889e0cd2c.jpg",
+      "https://i.pinimg.com/564x/80/06/cf/8006cf4d0a3441d9b7c02c80e6c7c497.jpg",
+      "https://i.pinimg.com/564x/4a/32/d9/4a32d95265749115bf6d9b06e83ca0f7.jpg",
+      "https://i.pinimg.com/736x/21/fd/df/21fddf788598e7b4fe4a563e7d793db1.jpg",
+    ],
     "textcontent": "Scientists have discovered several new species in the Amazon Rainforest, underscoring the region's rich biodiversity. These discoveries include previously unknown insects, amphibians, and plant species that thrive in the dense forest canopy. The findings are particularly significant as the rainforest faces growing threats from deforestation and climate change. The scientific community is calling for increased conservation efforts to protect these newly identified species and their habitats from further destruction.",
     "source_name": "Science",
     "publication_date": "2024-06-20",
@@ -194,7 +234,12 @@ export const HomeData = [
   {
     "id": 8,
     "title": "Olympics 2024: Preparations in Full Swing",
-    "image": "https://i.pinimg.com/736x/85/9c/76/859c76d7d9b56ec29fe4869f69735634.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/85/9c/76/859c76d7d9b56ec29fe4869f69735634.jpg",
+      "https://i.pinimg.com/564x/a0/61/24/a0612496f617024bd2acec94864a13dc.jpg",
+      "https://i.pinimg.com/564x/d1/a4/2c/d1a42c127de17fb8e00ed87df81ecd22.jpg",
+      "https://i.pinimg.com/564x/d4/9e/18/d49e18293cadf1434955859f6a129058.jpg",
+    ],
     "textcontent": "Preparations for the 2024 Summer Olympics in Paris are in full swing, with venues nearing completion and infrastructure projects progressing rapidly. The event is expected to draw millions of visitors from around the globe, generating significant revenue for the local economy. Organizers have placed a strong emphasis on sustainability, with eco-friendly venues and carbon-neutral transportation options. The city has also upgraded its public transportation network to accommodate the expected influx of tourists and athletes.",
     "source_name": "Sports",
     "publication_date": "2024-06-22",
@@ -218,7 +263,12 @@ export const HomeData = [
   {
     "id": 9,
     "title": "Global Efforts to Combat Plastic Pollution Intensify",
-    "image": "https://i.pinimg.com/564x/ae/96/f1/ae96f1572d810acedff0363098ebb9f2.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/ae/96/f1/ae96f1572d810acedff0363098ebb9f2.jpg",
+      "https://i.pinimg.com/564x/11/19/5b/11195bb53e828600506ad796d632996d.jpg",
+      "https://i.pinimg.com/564x/96/5e/67/965e67277fe2659ca1eeaf2cd32006f9.jpg",
+      "https://i.pinimg.com/564x/22/ab/c9/22abc92314574131f8c0d56f30836c3a.jpg",
+    ],
     "textcontent": "Countries around the world are stepping up efforts to combat plastic pollution, implementing new policies and initiatives to reduce plastic waste. From banning single-use plastics to incentivizing recycling, governments are taking action to address the growing environmental crisis. International organizations are also urging corporations to innovate in creating biodegradable alternatives. However, challenges remain, particularly in developing countries where waste management infrastructure is limited. The global community is being urged to collaborate and fund projects that can help reduce plastic waste at its source.",
     "source_name": "Environment",
     "publication_date": "2024-06-25",
@@ -242,7 +292,12 @@ export const HomeData = [
   {
     "id": 10,
     "title": "Major Cyber Attack Targets Global Corporations",
-    "image": "https://i.pinimg.com/564x/87/38/21/873821c050b3de2ce8c5b7164b848854.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/87/38/21/873821c050b3de2ce8c5b7164b848854.jpg",
+      "https://i.pinimg.com/564x/f8/f5/f1/f8f5f19f6889c36f514db5aaa49d911a.jpg",
+      "https://i.pinimg.com/564x/a1/fa/7b/a1fa7b2cb8ec856acc296f3ce8560d7b.jpg",
+      "https://i.pinimg.com/564x/65/09/ac/6509ac44a21c5cbcf05d66f2b45eaea1.jpg",
+    ],
     "textcontent": "A major cyber attack has targeted global corporations, compromising sensitive data and disrupting operations across multiple industries. The attack, believed to have been orchestrated by a sophisticated hacker group, has affected financial institutions, healthcare providers, and retail companies. Experts are warning that the scale of the breach may result in significant economic losses and could lead to increased scrutiny of cybersecurity measures. Governments around the world are reinforcing the importance of cybersecurity protocols and urging businesses to enhance their defenses against such threats.",
     "source_name": "Technology",
     "publication_date": "2024-06-28",
@@ -266,7 +321,12 @@ export const HomeData = [
   {
     "id": 11,
     "title": "World Leaders Discuss Global Security Challenges",
-    "image": "https://i.pinimg.com/564x/a7/94/71/a79471defe4591601c826b3d4a48a55a.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/a7/94/71/a79471defe4591601c826b3d4a48a55a.jpg",
+      "https://i.pinimg.com/736x/ba/25/92/ba2592235dc0bc192551845eb49b0d4b.jpg",
+      "https://i.pinimg.com/736x/fb/d4/46/fbd446e5df39f5258086232f6452a917.jpg",
+      "https://i.pinimg.com/564x/23/04/4e/23044e2990a3b6958b8a7bdc0947a19d.jpg",
+    ],
     "textcontent": "World leaders have convened to discuss pressing global security challenges, including rising geopolitical tensions, cyber threats, and terrorism. The summit aimed to foster international cooperation and develop strategies for addressing these multifaceted issues. With ongoing conflicts in various regions, the discussions also touched on the importance of diplomacy and peace-building efforts. Security experts stressed the need for enhanced intelligence sharing and technological innovation to counter modern threats, as well as reinforcing defense alliances.",
     "source_name": "Politics",
     "publication_date": "2024-06-30",
@@ -290,7 +350,12 @@ export const HomeData = [
   {
     "id": 12,
     "title": "Advancements in Renewable Energy Technologies",
-    "image": "https://i.pinimg.com/736x/13/c5/76/13c5760eceea6843a76c2444c6f08521.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/13/c5/76/13c5760eceea6843a76c2444c6f08521.jpg",
+      "https://i.pinimg.com/736x/6c/e4/e8/6ce4e83af4d1b064da8012c6665c3cc5.jpg",
+      "https://i.pinimg.com/564x/df/4d/c7/df4dc73446e712700a7a728f612c2f75.jpg",
+      "https://i.pinimg.com/564x/39/1c/4c/391c4c6517c4b2ffe021b638af6fdcbe.jpg",
+    ],
     "textcontent": "Significant advancements in renewable energy technologies are paving the way for a more sustainable future. Researchers have developed more efficient solar panels, wind turbines, and energy storage systems, making renewable energy sources more competitive with traditional fossil fuels. Governments are also increasing investments in renewable energy infrastructure, with many setting ambitious targets for reducing carbon emissions. These technological breakthroughs offer hope for mitigating climate change and transitioning to a greener economy.",
     "source_name": "Technology",
     "publication_date": "2024-07-02",
@@ -314,7 +379,12 @@ export const HomeData = [
   {
     "id": 13,
     "title": "Economic Sanctions Imposed on Nation Amid Conflict",
-    "image": "https://i.pinimg.com/564x/b8/4a/54/b84a54a522adfee21e3c3026cd3ead7e.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/b8/4a/54/b84a54a522adfee21e3c3026cd3ead7e.jpg",
+      "https://i.pinimg.com/564x/40/37/6c/40376ca15861332bb160c954f006b9b4.jpg",
+      "https://i.pinimg.com/564x/c2/14/d8/c214d8245c4b21035ae633228cd49e0c.jpg",
+      "https://i.pinimg.com/564x/52/29/29/522929f17c57362d908041b80d83725a.jpg",
+    ],
     "textcontent": "International economic sanctions have been imposed on a nation amid escalating conflict, aiming to de-escalate tensions and pressure the government to seek diplomatic solutions. The sanctions target key sectors, including finance, energy, and military industries, restricting the nation's access to global markets. While the sanctions are intended to weaken the government’s ability to fund the conflict, they also risk worsening the humanitarian situation by limiting access to essential goods. Global leaders have called for a peaceful resolution, emphasizing the need for continued dialogue.",
     "source_name": "Politics",
     "publication_date": "2024-07-05",
@@ -338,7 +408,12 @@ export const HomeData = [
   {
     "id": 14,
     "title": "Breakthrough in Quantum Computing Announced",
-    "image": "https://i.pinimg.com/736x/47/54/91/475491e548169c5cdd4d2b694ee616c1.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/18/71/8a/18718aff8963790767d5dd91057e3787.jpg",
+      "https://i.pinimg.com/736x/47/54/91/475491e548169c5cdd4d2b694ee616c1.jpg",
+      "https://i.pinimg.com/564x/90/a6/64/90a66438286a29e4deaa3c59ca7ad186.jpg",
+      "https://i.pinimg.com/564x/6e/32/b9/6e32b9366694f9e92835f4eae833cceb.jpg",
+    ],
     "textcontent": "A major breakthrough in quantum computing has been announced, potentially revolutionizing various industries from cybersecurity to healthcare. Researchers have developed a new quantum algorithm that allows for faster processing speeds and enhanced problem-solving capabilities, significantly outperforming traditional computers. This advancement opens up new possibilities in data encryption, drug discovery, and complex simulations. While the technology is still in its early stages, experts believe it will play a pivotal role in shaping the future of computing and technology.",
     "source_name": "Science",
     "publication_date": "2024-07-08",
@@ -362,7 +437,12 @@ export const HomeData = [
   {
     "id": 15,
     "title": "Solar Energy Adoption Increases in Developing Countries",
-    "image": "https://i.pinimg.com/564x/89/a2/93/89a2931c6ff234848bdb54a638475f34.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/89/a2/93/89a2931c6ff234848bdb54a638475f34.jpg",
+      "https://i.pinimg.com/564x/ec/49/de/ec49defcdf09c563da1b650623cc15ad.jpg",
+      "https://i.pinimg.com/564x/73/72/96/737296234c409eed00518376ec031ba0.jpg",
+      "https://i.pinimg.com/564x/ef/e2/95/efe295da6abefc4d833d76622da4f262.jpg",
+    ],
     "textcontent": "The adoption of solar energy is accelerating in developing countries, as governments prioritize renewable resources to meet growing energy demands. Solar power is seen as a cost-effective and sustainable solution, especially in regions with abundant sunlight. International organizations and private companies are partnering with local governments to build solar farms and provide off-grid energy solutions to rural areas. This shift not only reduces reliance on fossil fuels but also helps improve access to electricity for communities previously without reliable power.",
     "source_name": "Environment",
     "publication_date": "2024-06-07",
@@ -386,7 +466,12 @@ export const HomeData = [
   {
     "id": 16,
     "title": "New Tech Innovations Unveiled at Annual Conference",
-    "image": "https://i.pinimg.com/564x/b2/75/33/b27533b4177c41545dfb178aa16f2ff7.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/b2/75/33/b27533b4177c41545dfb178aa16f2ff7.jpg",
+      "https://i.pinimg.com/736x/60/0f/0b/600f0b53f9d0957cd29f385c119424fd.jpg",
+      "https://i.pinimg.com/736x/64/b7/32/64b7323595365b34437b1534e7194455.jpg",
+      "https://i.pinimg.com/564x/14/d8/e5/14d8e5e3010aab3f299a646a6bbf45dc.jpg",
+    ],
     "textcontent": "Innovative products ranging from artificial intelligence to robotics were showcased at this year’s annual tech conference, drawing attention from industry leaders and investors. The event highlighted the potential for AI to transform industries such as healthcare, education, and manufacturing. Robotics advancements focused on increasing automation in production lines, while new developments in virtual and augmented reality opened the door to immersive learning and entertainment experiences. Attendees were particularly excited about the ethical discussions surrounding AI development and the importance of responsible innovation.",
     "source_name": "Technology",
     "publication_date": "2024-06-08",
@@ -410,7 +495,12 @@ export const HomeData = [
   {
     "id": 17,
     "title": "Global Food Crisis Worsens Due to Climate Change",
-    "image": "https://i.pinimg.com/564x/0d/2e/89/0d2e897471563d9251c32ecf03763bba.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/0d/2e/89/0d2e897471563d9251c32ecf03763bba.jpg",
+      "https://i.pinimg.com/564x/13/f8/8b/13f88b8e2c2b3341bec14e0eb9e1f8f5.jpg",
+      "https://i.pinimg.com/564x/2b/6a/cd/2b6acd8ae53f9413185160ef884a6bac.jpg",
+      "https://i.pinimg.com/564x/e9/4c/ef/e94cef807dfe1d17a0119f778e15ed42.jpg",
+    ],
     "textcontent": "Agricultural sectors worldwide are being hit hard by the effects of climate change, exacerbating the global food crisis. Prolonged droughts, flooding, and unpredictable weather patterns are disrupting crop production, leading to food shortages and rising prices. In some regions, farmers are struggling to adapt to these changes, while others are implementing innovative solutions, such as drought-resistant crops and new irrigation techniques. International organizations are calling for immediate action to mitigate the impacts of climate change on food security and provide relief to affected populations.",
     "source_name": "Economy",
     "publication_date": "2024-06-09",
@@ -434,7 +524,12 @@ export const HomeData = [
   {
     "id": 18,
     "title": "SpaceX Launches New Rocket with Reusable Components",
-    "image": "https://i.pinimg.com/564x/b6/e6/a7/b6e6a70df099d39b1e06d8a7a3c5e1cd.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/b6/e6/a7/b6e6a70df099d39b1e06d8a7a3c5e1cd.jpg",
+      "https://i.pinimg.com/enabled_lo/564x/c7/7e/dc/c77edc2591d5c8bad8b009e8338b560f.jpg",
+      "https://i.pinimg.com/564x/cc/07/b2/cc07b2beb9e4d48908ea8473f0a6a7b3.jpg",
+      "https://i.pinimg.com/564x/1b/1c/12/1b1c1260653cc527c5b180be6a9d1b42.jpg",
+    ],
     "textcontent": "SpaceX successfully launched its latest rocket, marking another milestone in reusable space technology. The rocket, designed with cutting-edge reusable components, aims to reduce the cost of space exploration and improve sustainability in the aerospace industry. This launch is part of SpaceX’s broader mission to revolutionize space travel, with the long-term goal of enabling human missions to Mars. Engineers are excited about the potential for reusability to increase the frequency of launches and make space more accessible to both commercial and scientific endeavors.",
     "source_name": "Science",
     "publication_date": "2024-06-10",
@@ -458,7 +553,12 @@ export const HomeData = [
   {
     "id": 19,
     "title": "Global Supply Chain Faces New Challenges Amid Political Tensions",
-    "image": "https://i.pinimg.com/564x/14/94/c7/1494c716d670e463f570f43eb83a0343.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/14/94/c7/1494c716d670e463f570f43eb83a0343.jpg",
+      "https://i.pinimg.com/564x/1e/39/cd/1e39cd178caef280072803d37e10e6b1.jpg",
+      "https://i.pinimg.com/736x/03/6c/a0/036ca08e63c1103bfe6fbe94ca600107.jpg",
+      "https://i.pinimg.com/564x/37/7a/2c/377a2c062fdbd41feab898787cee409c.jpg",
+    ],
     "textcontent": "The global supply chain faces unprecedented challenges due to rising political tensions in key regions. Trade restrictions, sanctions, and diplomatic conflicts have caused disruptions in the flow of goods, leading to delays and increased costs for manufacturers and consumers alike. As companies scramble to find alternative suppliers and logistics solutions, the economic impact is being felt worldwide, particularly in sectors dependent on global trade networks. Experts warn that the instability could further strain supply chains already weakened by the COVID-19 pandemic and environmental challenges.",
     "source_name": "Economy",
     "publication_date": "2024-06-11",
@@ -482,7 +582,12 @@ export const HomeData = [
   {
     "id": 20,
     "title": "New Study Highlights Benefits of Meditation on Mental Health",
-    "image": "https://i.pinimg.com/564x/2c/8c/3f/2c8c3fee236dc10606c323bca207f16f.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/2c/8c/3f/2c8c3fee236dc10606c323bca207f16f.jpg",
+      "https://i.pinimg.com/736x/a1/ec/97/a1ec97a7258912e2777b6c0aa95b953a.jpg",
+      "https://i.pinimg.com/564x/e2/a1/4d/e2a14db0c6808279ad6cc6d5e0347041.jpg",
+      "https://i.pinimg.com/736x/c2/24/35/c2243564643bffa03ed1359ae0c252bb.jpg",
+    ],
     "textcontent": "Researchers have found that regular meditation can significantly improve mental well-being and reduce stress. The study, conducted over five years, involved participants from diverse age groups and backgrounds, showing consistent benefits across all demographics. The research highlights the potential for meditation to be used as a therapeutic tool for managing anxiety, depression, and other mental health issues. Experts are now advocating for the inclusion of mindfulness practices in healthcare and educational systems to help address the growing mental health crisis.",
     "source_name": "Health",
     "publication_date": "2024-06-12",
@@ -506,7 +611,12 @@ export const HomeData = [
   {
     "id": 21,
     "title": "World Leaders Commit to Reducing Carbon Emissions",
-    "image": "https://i.pinimg.com/736x/5a/05/ad/5a05ad8df10ce23b22cbb80974522a2e.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/5a/05/ad/5a05ad8df10ce23b22cbb80974522a2e.jpg",
+      "https://i.pinimg.com/564x/8c/6d/a2/8c6da20c9092308e2ea90e6d93448a8d.jpg",
+      "https://i.pinimg.com/564x/4e/6f/be/4e6fbe42434d55610f7a18873d5fa0e5.jpg",
+      "https://i.pinimg.com/564x/69/7f/89/697f895627b16bf8062fc8a61644a1ee.jpg",
+    ],
     "textcontent": "In a landmark agreement, world leaders have pledged to significantly reduce carbon emissions over the next decade in an effort to combat climate change. The agreement, signed during a high-profile environmental summit, sets ambitious targets for transitioning to renewable energy, reducing deforestation, and investing in green technologies. Environmentalists have praised the move, though some critics argue that more immediate action is needed to address the current climate crisis. The next phase will focus on implementing these policies and ensuring accountability across participating nations.",
     "source_name": "Environment",
     "publication_date": "2024-06-13",
@@ -530,7 +640,12 @@ export const HomeData = [
   {
     "id": 22,
     "title": "Breakthrough in Electric Vehicle Battery Technology",
-    "image": "https://i.pinimg.com/736x/ca/4e/b0/ca4eb0ffc44264a91ffcc5fffffe3555.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/ca/4e/b0/ca4eb0ffc44264a91ffcc5fffffe3555.jpg",
+      "https://i.pinimg.com/736x/de/b9/17/deb917cb67415ce989a015bc809d6f59.jpg",
+      "https://i.pinimg.com/564x/fe/62/a9/fe62a9d269c63d59bcc11307af499a70.jpg",
+      "https://i.pinimg.com/564x/b3/a1/17/b3a11790941e556278e11ce015f59ad4.jpg",
+    ],
     "textcontent": "A new advancement in electric vehicle battery technology promises longer range and faster charging times, potentially revolutionizing the EV industry. Scientists have developed a battery that can last up to 20% longer than current models while charging 30% faster. This breakthrough could reduce one of the major barriers to widespread electric vehicle adoption—range anxiety. Automakers are already showing interest in incorporating this technology into future models, which is expected to help drive down costs and increase accessibility to electric vehicles globally.",
     "source_name": "Technology",
     "publication_date": "2024-06-14",
@@ -554,7 +669,12 @@ export const HomeData = [
   {
     "id": 23,
     "title": "Rising Housing Prices Cause Concern Among First-Time Buyers",
-    "image": "https://i.pinimg.com/564x/7a/1c/c4/7a1cc487d0e0c9398a5ba73b82038908.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/7a/1c/c4/7a1cc487d0e0c9398a5ba73b82038908.jpg",
+      "https://i.pinimg.com/564x/58/55/a4/5855a4951a080572f1157570e1d57654.jpg",
+      "https://i.pinimg.com/564x/8c/18/8b/8c188b8d942142965eb0e2cb8ea3f54d.jpg",
+      "https://i.pinimg.com/564x/8f/5d/4a/8f5d4a99dcfd30ea4435ae425b707a55.jpg",
+    ],
     "textcontent": "First-time homebuyers are struggling as housing prices continue to rise, especially in urban areas. The housing market, already inflated by high demand and low supply, has seen a surge in prices, making it difficult for younger generations to enter the market. Economists are warning that if prices continue to rise at this pace, more people may be priced out of homeownership altogether. Governments are under increasing pressure to introduce policies aimed at making housing more affordable, such as expanding affordable housing programs and offering incentives for first-time buyers.",
     "source_name": "Real Estate",
     "publication_date": "2024-06-15",
@@ -578,7 +698,12 @@ export const HomeData = [
   {
     "id": 24,
     "title": "Scientists Develop New Method for Recycling Plastics",
-    "image": "https://i.pinimg.com/564x/50/90/22/509022166e37f036d5873713057a7f34.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/4b/6b/7d/4b6b7d093bd20f74935a8d1431e3e3d8.jpg",
+      "https://i.pinimg.com/564x/50/90/22/509022166e37f036d5873713057a7f34.jpg",
+      "https://i.pinimg.com/564x/0c/08/4c/0c084cb0e6927302e8edcfc899d58eb8.jpg",
+      "https://i.pinimg.com/564x/09/39/32/0939320e8d425a7b0c3c48ffa592a24e.jpg",
+    ],
     "textcontent": "A group of scientists has developed a groundbreaking method for recycling plastics that could significantly reduce pollution. The new process allows for plastics to be broken down into their base chemicals, which can then be reused to create new products. This method has the potential to drastically reduce the amount of plastic waste ending up in landfills and oceans. Environmentalists are hopeful that this innovation could lead to a circular economy for plastics, where materials are continuously recycled rather than discarded.",
     "source_name": "Science",
     "publication_date": "2024-06-16",
@@ -602,7 +727,12 @@ export const HomeData = [
   {
     "id": 25,
     "title": "AI Adoption in Healthcare Continues to Expand",
-    "image": "https://i.pinimg.com/736x/f1/2c/bc/f12cbc8686ec286e18e9f95a56c7137c.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/f1/2c/bc/f12cbc8686ec286e18e9f95a56c7137c.jpg",
+      "https://i.pinimg.com/564x/e1/76/d1/e176d1d9a13999cb27bc69dbeb07dad1.jpg",
+      "https://i.pinimg.com/564x/55/1c/88/551c88402b7848b0f7d55291461e3773.jpg",
+      "https://i.pinimg.com/564x/3b/07/f5/3b07f59a8e5a21111638d720182ed94c.jpg",
+    ],
     "textcontent": "Healthcare providers are increasingly adopting artificial intelligence (AI) technologies to enhance patient care, streamline operations, and improve diagnostics. From AI-driven diagnostic tools that detect diseases early to AI-powered chatbots that provide virtual consultations, these technologies are transforming the healthcare industry. Experts believe that AI could help reduce healthcare costs and improve outcomes for patients, particularly in underserved areas where access to medical professionals is limited. However, concerns about data privacy and the need for ethical AI practices remain a topic of discussion among healthcare leaders.",
     "source_name": "Technology",
     "publication_date": "2024-06-17",
@@ -626,7 +756,12 @@ export const HomeData = [
   {
     "id": 26,
     "title": "Tourism Industry Sees Boom Following Global Travel Resumptions",
-    "image": "https://i.pinimg.com/564x/5f/1a/ff/5f1aff36c8f951f7419b4e0ccf16b7af.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/8d/aa/06/8daa06a66fc27c550bc755916fef4718.jpg",
+      "https://i.pinimg.com/564x/5f/1a/ff/5f1aff36c8f951f7419b4e0ccf16b7af.jpg",
+      "https://i.pinimg.com/564x/51/f6/39/51f639e1515d74a73c1dcf85e1f12e8c.jpg",
+      "https://i.pinimg.com/564x/32/72/2c/32722c625c4565ad0a923a2a1919e5c8.jpg",
+    ],
     "textcontent": "Tourism industries worldwide are experiencing a significant boom after global travel restrictions were lifted, with destinations welcoming back millions of travelers. Popular tourist spots are seeing record-breaking visitor numbers as people make up for lost time due to pandemic lockdowns. Economists are optimistic that this surge in tourism will provide a much-needed boost to economies that rely heavily on the travel and hospitality sectors. However, concerns about overcrowding, environmental impacts, and the sustainability of mass tourism remain prevalent.",
     "source_name": "Economy",
     "publication_date": "2024-06-18",
@@ -650,7 +785,12 @@ export const HomeData = [
   {
     "id": 27,
     "title": "Virtual Reality Gains Momentum in Education",
-    "image": "https://i.pinimg.com/564x/8f/b1/b3/8fb1b34fc46cad9acec17fd810c86317.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/8f/b1/b3/8fb1b34fc46cad9acec17fd810c86317.jpg",
+      "https://i.pinimg.com/564x/f9/74/8d/f9748d4c2b1de75faefc736a86ae7457.jpg",
+      "https://i.pinimg.com/564x/a0/cb/fb/a0cbfb511209808761121efc8c397369.jpg",
+      "https://i.pinimg.com/564x/10/44/22/104422ff81bf93aaab236dc47f42dd04.jpg",
+    ],
     "textcontent": "Virtual reality (VR) technology is gaining momentum in educational settings, offering immersive learning experiences that engage students in new and innovative ways. From virtual field trips to interactive science simulations, VR allows students to explore environments and concepts that would otherwise be difficult or impossible to experience in a traditional classroom. Educators are optimistic about the potential for VR to improve learning outcomes, particularly for students who struggle with traditional methods. However, access to VR technology remains a barrier for many schools, particularly in low-income areas.",
     "source_name": "Education",
     "publication_date": "2024-06-19",
@@ -674,7 +814,12 @@ export const HomeData = [
   {
     "id": 28,
     "title": "Cryptocurrency Regulation Talks Intensify Among World Governments",
-    "image": "https://i.pinimg.com/736x/2d/2e/22/2d2e22aa4501ca58182fc752cd2be239.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/2d/2e/22/2d2e22aa4501ca58182fc752cd2be239.jpg",
+      "https://i.pinimg.com/736x/5e/3d/80/5e3d8039f0279f37a4b8c6acaef59a15.jpg",
+      "https://i.pinimg.com/736x/44/ee/bc/44eebcf493aa8ca9f068825632d4a964.jpg",
+      "https://i.pinimg.com/736x/24/9e/60/249e602fb04e71bacea9d3531e7cbd4d.jpg",
+    ],
     "textcontent": "World governments are intensifying discussions on regulating cryptocurrencies amid concerns over market volatility, fraud, and the potential for illicit activities. Regulatory bodies are exploring ways to create a balanced framework that protects investors while fostering innovation in blockchain technology. Some countries are pushing for stricter controls, while others advocate for a more open approach to allow the crypto market to grow. The outcome of these discussions will shape the future of cryptocurrencies and their role in the global financial system.",
     "source_name": "Finance",
     "publication_date": "2024-06-20",
@@ -698,7 +843,12 @@ export const HomeData = [
   {
     "id": 29,
     "title": "Electric Cars Expected to Dominate Market by 2030",
-    "image": "https://i.pinimg.com/736x/82/0c/c0/820cc0de717f4ee0c0a8e7fd15e9f4f1.jpg",
+    "image": [
+      "https://i.pinimg.com/736x/82/0c/c0/820cc0de717f4ee0c0a8e7fd15e9f4f1.jpg",
+      "https://i.pinimg.com/enabled_lo/564x/d9/7d/b8/d97db89f47646e3df2e037d2b41beb49.jpg",
+      "https://i.pinimg.com/736x/68/d7/3b/68d73b7533d9a425b3127e55ab1120f4.jpg",
+      "https://i.pinimg.com/564x/a0/4a/a6/a04aa60329c5f2dc05323222ece5bc4b.jpg",
+    ],
     "textcontent": "Experts predict that electric cars will dominate the global auto market by 2030 due to decreasing battery costs and environmental concerns. Automakers are increasingly shifting their focus toward electric vehicles (EVs), spurred by government policies promoting clean energy and rising consumer demand for eco-friendly alternatives. Innovations in battery technology, along with improved charging infrastructure, are making EVs more accessible to the average consumer. The transition to electric cars is seen as a key strategy in reducing greenhouse gas emissions and combating climate change.",
     "source_name": "Technology",
     "publication_date": "2024-06-21",
@@ -722,7 +872,12 @@ export const HomeData = [
   {
     "id": 30,
     "title": "Global Hunger Crisis Worsens Despite International Efforts",
-    "image": "https://i.pinimg.com/564x/ea/19/ce/ea19ce8f557452b9845b0bd4afa9b45a.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/ea/19/ce/ea19ce8f557452b9845b0bd4afa9b45a.jpg",
+      "https://i.pinimg.com/564x/c2/5d/37/c25d376cd32f79a27ae634fb24d23cfb.jpg",
+      "https://i.pinimg.com/564x/3c/2a/51/3c2a51e2f43a2971033a749a8a0e5c4f.jpg",
+      "https://i.pinimg.com/736x/2c/12/ff/2c12ffbefacb32d9eb806b9f1e54b984.jpg",
+    ],
     "textcontent": "Despite global initiatives to end hunger, food insecurity continues to rise in certain regions, exacerbated by economic instability, political conflict, and climate change. International organizations have increased aid efforts, but logistical challenges and lack of funding have limited the effectiveness of relief programs. Experts warn that without more substantial interventions, millions could face famine in the coming years. There is an urgent need for global cooperation to address the root causes of hunger, such as poverty, inequality, and environmental degradation.",
     "source_name": "Economy",
     "publication_date": "2024-06-22",
@@ -746,7 +901,12 @@ export const HomeData = [
   {
     "id": 31,
     "title": "New Renewable Energy Sources Show Promise for Future",
-    "image": "https://i.pinimg.com/564x/86/7c/bb/867cbb8ab44ec554bb44d623210210a2.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/86/7c/bb/867cbb8ab44ec554bb44d623210210a2.jpg",
+      "https://i.pinimg.com/736x/50/9c/9d/509c9d2b90247c2fbc93fcc529251ee8.jpg",
+      "https://i.pinimg.com/564x/47/04/13/470413cd9696eb8a24bc1479ea3ba82b.jpg",
+      "https://i.pinimg.com/564x/11/ef/16/11ef1625bb2e9ce1941d4f21e7849738.jpg",
+    ],
     "textcontent": "Innovations in renewable energy sources, including tidal and geothermal energy, offer new hope for sustainable power generation. Researchers are exploring untapped energy sources that could complement solar and wind, providing more reliable and consistent power generation. Tidal energy, harnessed from the natural movement of ocean tides, and geothermal energy, drawn from the earth’s internal heat, are being tested in pilot projects around the world. These advancements could help reduce reliance on fossil fuels and provide energy solutions in regions where other renewable sources are less effective.",
     "source_name": "Environment",
     "publication_date": "2024-06-23",
@@ -770,7 +930,12 @@ export const HomeData = [
   {
     "id": 32,
     "title": "Scientists Decode Ancient Texts Using AI",
-    "image": "https://i.pinimg.com/564x/24/27/c1/2427c1567a9ef20e9db10bcf6660fd1f.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/24/27/c1/2427c1567a9ef20e9db10bcf6660fd1f.jpg",
+      "https://i.pinimg.com/564x/48/d4/3b/48d43b708f5b72b70b7fb17efec98854.jpg",
+      "https://i.pinimg.com/564x/11/b2/c4/11b2c4f47f14d349b0293e5ced3f3bf4.jpg",
+      "https://i.pinimg.com/564x/04/c6/9c/04c69c4db09c15aeb4ea47238371b7dc.jpg",
+    ],
     "textcontent": "A team of scientists has used artificial intelligence (AI) to decode previously unreadable ancient texts, shedding new light on historical events and cultures. The AI algorithms were able to reconstruct fragmented texts and translate lost languages, providing scholars with unprecedented access to ancient knowledge. These discoveries could revolutionize the field of archaeology and history, offering insights into civilizations that have long remained a mystery. The use of AI in this field is expected to accelerate further research and unlock more secrets from the past.",
     "source_name": "Science",
     "publication_date": "2024-06-24",
@@ -794,7 +959,12 @@ export const HomeData = [
   {
     "id": 33,
     "title": "Advances in Telemedicine Are Reshaping Healthcare",
-    "image": "https://i.pinimg.com/564x/db/aa/6d/dbaa6d3b191888a2afbd0dd9cac9145a.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/fb/b0/b6/fbb0b6deeecb90790382c4493aa3fd8f.jpg",
+      "https://i.pinimg.com/564x/db/aa/6d/dbaa6d3b191888a2afbd0dd9cac9145a.jpg",
+      "https://i.pinimg.com/564x/4a/99/ee/4a99eec50c0a4ebde95368c24749ec3e.jpg",
+      "https://i.pinimg.com/564x/f5/34/f2/f534f296638e5766a4dbae9c413da4ae.jpg",
+    ],
     "textcontent": "Telemedicine technology continues to make healthcare more accessible, especially for patients in remote or underserved areas. The pandemic accelerated the adoption of telehealth services, and now more healthcare providers are integrating virtual consultations, remote diagnostics, and AI-powered tools into their practice. Telemedicine has proven to be a cost-effective way to manage chronic diseases, provide mental health support, and improve access to specialists. However, challenges remain regarding digital access, privacy concerns, and ensuring high-quality care across virtual platforms.",
     "source_name": "Health",
     "publication_date": "2024-06-25",
@@ -818,7 +988,12 @@ export const HomeData = [
   {
     "id": 34,
     "title": "Global Economies Brace for Impact of Rising Oil Prices",
-    "image": "https://i.pinimg.com/564x/89/cb/4f/89cb4f4c51771968066d7befd4d9e8de.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/89/cb/4f/89cb4f4c51771968066d7befd4d9e8de.jpg",
+      "https://i.pinimg.com/736x/d9/9a/52/d99a52e44ba4b808cfd2f4ffa41e3ca4.jpg",
+      "https://i.pinimg.com/564x/f0/ba/2e/f0ba2efc14b383daf92614c2c961909a.jpg",
+      "https://i.pinimg.com/564x/ab/7e/f2/ab7ef27977e413d6b86c21f8ca4bf6e9.jpg",
+    ],
     "textcontent": "Rising oil prices are sparking concerns among global economies, as countries brace for the impact on inflation, energy costs, and consumer spending. The increase in prices is driven by geopolitical tensions, production limitations, and increased global demand. Economists warn that prolonged high oil prices could slow economic recovery efforts and push inflation even higher, particularly in developing nations. Governments are exploring alternative energy solutions and increasing pressure on oil-producing nations to stabilize prices, while businesses and consumers look for ways to mitigate rising costs.",
     "source_name": "Economy",
     "publication_date": "2024-06-26",
@@ -842,7 +1017,13 @@ export const HomeData = [
   {
     "id": 35,
     "title": "Tech Giants Collaborate on AI Ethics Standards",
-    "image": "https://i.pinimg.com/564x/7a/90/a4/7a90a447374e70e7c911e9c78dbf739b.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/7a/90/a4/7a90a447374e70e7c911e9c78dbf739b.jpg",
+      "https://i.pinimg.com/736x/f1/66/81/f166816d906e76f1b12d5fd4aa6ee1bf.jpg",
+      "https://i.pinimg.com/564x/f4/af/b1/f4afb149c40ebfdc14027847f60ff421.jpg",
+      "https://i.pinimg.com/564x/b7/f4/29/b7f429d15dd7d48756dd0e2c364f4563.jpg",
+
+    ],
     "textcontent": "Leading tech companies have announced a joint initiative to establish global ethics standards for artificial intelligence (AI) development. The collaboration aims to address growing concerns about AI's potential misuse, including issues related to privacy, job displacement, and bias in AI algorithms. These companies have committed to developing AI technologies that are transparent, fair, and accountable. Industry experts believe that these standards will help guide the responsible development of AI and ensure that its benefits are shared equitably across society.",
     "source_name": "Technology",
     "publication_date": "2024-06-02",
@@ -866,7 +1047,12 @@ export const HomeData = [
   {
     "id": 36,
     "title": "Climate Change Takes Center Stage at UN Summit",
-    "image": "https://i.pinimg.com/564x/f4/d6/cb/f4d6cbe317911722bd1e38ecd9863b1b.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/f4/d6/cb/f4d6cbe317911722bd1e38ecd9863b1b.jpg",      
+      "https://i.pinimg.com/564x/c2/28/66/c22866a5bd6093e85186d9528c5d97bb.jpg",      
+      "https://i.pinimg.com/564x/91/06/0c/91060c68650aa9cb2582aaea206af76a.jpg",      
+      "https://i.pinimg.com/564x/0e/98/3d/0e983d56785867167d9a316ecaac4860.jpg",      
+    ],
     "textcontent": "Global leaders are convening at the United Nations Summit to address the urgent need for action to mitigate the devastating effects of climate change. The summit focuses on renewable energy as a primary solution to reducing global carbon emissions, with discussions centered around transitioning away from fossil fuels, supporting developing countries in their sustainability efforts, and implementing stricter environmental regulations. Leaders from major economies have pledged to work collaboratively on innovative green technologies, funding for renewable projects, and setting ambitious carbon reduction targets. The summit emphasizes that collective global action is crucial to slowing the effects of climate change before they become irreversible.",
     "source_name": "Environment",
     "publication_date": "2024-06-03",
@@ -890,7 +1076,12 @@ export const HomeData = [
   {
     "id": 37,
     "title": "Breakthrough in Cancer Research Announced",
-    "image": "https://i.pinimg.com/564x/0a/aa/53/0aaa53b7278efe597a1e675d6c19116a.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/0a/aa/53/0aaa53b7278efe597a1e675d6c19116a.jpg",
+      "https://i.pinimg.com/564x/98/6d/fb/986dfbd3fd1ad7090f0217a8d5c98b03.jpg",
+      "https://i.pinimg.com/564x/bd/25/c3/bd25c3c9047e1a711daa13db294e0842.jpg",
+      "https://i.pinimg.com/564x/06/65/03/06650333a6ad61a612a4972c82095aa1.jpg",
+    ],
     "textcontent": "Scientists have revealed a significant breakthrough in cancer research that could transform the way we treat various forms of the disease. The discovery involves a new targeted therapy that attacks cancer cells while leaving healthy cells unharmed, potentially reducing side effects and improving patient outcomes. Early clinical trials have shown remarkable success in patients with aggressive cancers, offering new hope to those who have exhausted other treatment options. This advancement could pave the way for more personalized cancer treatments in the future, with the potential to save millions of lives.",
     "source_name": "Health",
     "publication_date": "2024-06-04",
@@ -914,7 +1105,12 @@ export const HomeData = [
   {
     "id": 38,
     "title": "Stock Markets Show Signs of Recovery Amid Global Uncertainty",
-    "image": "https://i.pinimg.com/564x/dc/5d/3e/dc5d3e2649c9c539228e60d5554f48a9.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/dc/5d/3e/dc5d3e2649c9c539228e60d5554f48a9.jpg",
+      "https://i.pinimg.com/564x/66/5f/80/665f8008a1a3e1beac38da323091fd48.jpg",
+      "https://i.pinimg.com/564x/81/a6/cc/81a6cc2d9e1b111f7926fd87160742e6.jpg",
+      "https://i.pinimg.com/564x/06/e6/a1/06e6a1f4963f5966b3ac3a6804edac9e.jpg",
+    ],
     "textcontent": "Global stock markets have begun to show signs of recovery after months of volatility fueled by economic uncertainty, geopolitical tensions, and inflation concerns. Investors are cautiously optimistic as major indexes report gains, and companies across various sectors begin to stabilize. Analysts attribute the recovery to improved economic indicators, such as lower unemployment rates, increased consumer spending, and gradual reductions in inflation. However, experts warn that market fluctuations may continue due to ongoing challenges in supply chains and global political instability. Investors are advised to remain vigilant while markets navigate this period of cautious optimism.",
     "source_name": "Finance",
     "publication_date": "2024-06-05",
@@ -938,7 +1134,12 @@ export const HomeData = [
   {
     "id": 39,
     "title": "Advancements in Quantum Computing Pave the Way for Innovation",
-    "image": "https://i.pinimg.com/564x/4b/6f/df/4b6fdf9770899dbe0b5af5b11555bddd.jpg",
+    "image": [
+      "https://i.pinimg.com/564x/4b/6f/df/4b6fdf9770899dbe0b5af5b11555bddd.jpg",
+      "https://i.pinimg.com/564x/91/c5/d5/91c5d57708ae6027ef1885ba4d2461f0.jpg",
+      "https://i.pinimg.com/564x/94/cc/f9/94ccf95bd016c14a9ea0d8be28acef4a.jpg",
+      "https://i.pinimg.com/564x/bf/1f/ab/bf1fab0d59b679e19542d32a72871d2e.jpg",
+    ],
     "textcontent": "Researchers have made significant advancements in quantum computing, positioning it as a technology poised to revolutionize industries from cybersecurity to healthcare. These breakthroughs involve developing quantum algorithms that drastically improve processing power, allowing for faster and more complex problem-solving than traditional computers can achieve. Quantum computing could unlock new possibilities in fields such as drug discovery, financial modeling, and artificial intelligence. While the technology is still in its early stages, scientists are optimistic that it will soon have practical applications in real-world scenarios, marking a new era of innovation across multiple sectors.",
     "source_name": "Technology",
     "publication_date": "2024-06-06",
@@ -960,3 +1161,5 @@ export const HomeData = [
     ],
   },
 ];
+
+
